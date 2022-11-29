@@ -13,6 +13,7 @@ PROFESSIONAL EXPERIENCE
 June 2022 - Present
 
  Technical Product Manager for our Platform and DevOps team, which includes:
+
 * Product Security, including vulnerability Management, cloud security (AWS), ISO 27001 compliance, and SaaS deployment.
 * Product owner for the capabilities of Devops and Kubernetes related work, developing next gen CICD.
 * Lead voice of customer and work prioritization efforts.
@@ -44,7 +45,7 @@ May 2007 – Nov 2010
 * Performed spatial and multivariate statistical analysis on large datasets, co-authored EPA (contracted) publications and peer reviewed journals.
 * Created front end web applications, utilizing the ESRI JavaScript and Google Maps API, custom desktop geoprocessing scripts to automate routine tasks.
 
-Education and Certifications
+EDUCATION AND CERTIFICATIONS
 --------------------
 2005-2007
 :   **MS, Biology**; Ball State University (Muncie, Indiana)
@@ -59,7 +60,19 @@ CompTIA Security+ (COMP001022014550; issued 2022)
 Knowledgeable on NIST Cybersecurity Framework and how the Identify, Protect, Detect, Respond, and Recover categories comprise and facilitate an information security program.
 
 
-Technical Experience
+COMPUTER LANGUAGES AND TOOLS
+--------------------
+
+* Backend: Python/R, Django, SQL Server/PostgreSQL, Apache, Microsoft Internet Information Server, AWS API Gateway, Github/Gitlab CI pipelines, and AWS infrastructure as code (IaC), DevSecOps
+*	Frontend: Javascript, React, jQuery, Dojo
+*	Windows/Linux: Windows Subsystem for Linux, Bash, Powershell
+*	Virtualization: VirtualBox, Docker, AWS EC2
+*	Program/Product: Monday.com, Jira, Confluence, MS Visio/Lucid, Mural, Balsamiq, PowerBI
+*	Security tools: BurpSuite, Imperva (WAF), Kali
+*	Cloud: AWS, Azure
+
+
+TECHNICAL EXPERIENCE
 --------------------
 
 **My Cool Side Project:**
@@ -70,7 +83,7 @@ Technical Experience
 
 
 
-Extra Section, Call it Whatever You Want
+ot
 ----------------------------------------
 
 * Random tidbit

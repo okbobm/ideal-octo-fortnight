@@ -3,7 +3,7 @@
 
 ## Projects and Ongoing
 ### Fall/Winter 2022
-- 
+- Coming soon
 
 
 
