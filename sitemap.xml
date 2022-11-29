@@ -6,37 +6,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rmtechtransfer/mkdocs-quickstart/about-mkdocs/</loc>
+         <loc>https://rmtechtransfer/mkdocs-quickstart/AboutMe/about-me/</loc>
          <lastmod>2022-11-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rmtechtransfer/mkdocs-quickstart/tutorial/advanced/</loc>
+         <loc>https://rmtechtransfer/mkdocs-quickstart/AboutMe/resume/</loc>
          <lastmod>2022-11-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rmtechtransfer/mkdocs-quickstart/tutorial/deploy/</loc>
-         <lastmod>2022-11-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://rmtechtransfer/mkdocs-quickstart/tutorial/installation/</loc>
-         <lastmod>2022-11-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://rmtechtransfer/mkdocs-quickstart/tutorial/setup-project/</loc>
-         <lastmod>2022-11-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://rmtechtransfer/mkdocs-quickstart/tutorial/tldr/</loc>
-         <lastmod>2022-11-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://rmtechtransfer/mkdocs-quickstart/tutorial/usage/</loc>
+         <loc>https://rmtechtransfer/mkdocs-quickstart/Projects/tldr/</loc>
          <lastmod>2022-11-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
