@@ -1,10 +1,10 @@
 ### Site metadata ###
 
-site_name: MkDocs Quickstart
-site_description: Starter template for a MkDocs docs site on GH Pages - including CI
-site_url: https://michaelcurrin.github.io/mkdocs-quickstart/
+site_name: RMTechTransfer Blog
+site_description: Random blog to track the randomness and curiosity, personal and professional.
+site_url: https://rmtechtransfer/mkdocs-quickstart/
 
-repo_url: https://github.com/MichaelCurrin/mkdocs-quickstart
+repo_url: https://github.com/okbobm/ideal-octo-fortnight
 edit_uri: edit/master/docs/docs
 
 ### Build settings ###
@@ -13,11 +13,8 @@ theme: material
 
 nav:
   - Home: index.md
-  - About MkDocs: about-mkdocs.md
-  - Tutorial:
-      - TL;DR: tutorial/tldr.md
-      - Installation: tutorial/installation.md
-      - Set up project: tutorial/setup-project.md
-      - Advanced: tutorial/advanced.md
-      - Usage: tutorial/usage.md
-      - Deploy: tutorial/deploy.md
+  - AboutMe: 
+      - About me: AboutMe/about-me.md
+      - Resume: AboutMe/resume.md
+  - Projects:
+      - TL;DR: Projects/tldr.md
